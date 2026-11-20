@@ -7,10 +7,10 @@ dua versi bahasa pemrograman, yaitu **C** dan **Python**.
 * **Kelas:** X PPLG
 * **No. Absen:** 27
 ## Deskripsi Aplikasi
-Sistem ini sangat direkomendasikan untuk para pembisnis baru yang mau jualan poduk makanan tapi bingung nentuin harga jual yang pas berapa ,disini hadir sistem penghitung HPP dan akan menampilkan Saran harga jual berdasarkan seberapa besar margin persen yang di inginkan
+Sistem ini sangat direkomendasikan untuk para pembisnis baru yang mau jualan poduk makanan tapi bingung nentuin harga jual yang pas berapa ,disini hadir sistem penghitung HPP dan akan menampilkan Saran harga jual berdasarkan seberapa besar margin persen yang di inginkan dalam bentuk bahasa C dan Python.
 ## Daftar File
 * `projekHitungHPP.c` : Kode program utama menggunakan bahasa C.
 * `projekHitungHPP` : Kode program utama menggunakan bahasa Python.
 * `output-program.png` : Screenshot hasil menjalankan program aplikasi.
 ## Screenshot Output Program
-![Output Program](output-program.png)
+![Output Program C](output-program.png)
